@@ -1,6 +1,6 @@
 # Particle Cannon
 
-3d particle cannon using OpenGL and C++.
+3d particle cannon with physics using OpenGL and C++.
 
 **to build** 👉 g++ -framework OpenGL -framework GLUT -o cannon cannon.cpp <br>
 **to run** 👉 ./cannon
