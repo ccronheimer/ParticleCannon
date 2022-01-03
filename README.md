@@ -398,5 +398,5 @@ int main(int argc, char **argv)
 ## Screenshots
 
 <img src="default.png" width=500/> 
-<img src="lightning.png" width=500/> 
+<img src="lighting.png" width=500/> 
 <img src="lightshow.png" width=500/> 
