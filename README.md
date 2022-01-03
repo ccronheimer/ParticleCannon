@@ -1,6 +1,5 @@
 # ParticleCannon
-Particle Cannon COSC 3P98 A3
-Cameron Cronheimer (6517080), Aman Braich (6511679)
+
 
 ----------MODES----------
 Q: Quit
